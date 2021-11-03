@@ -25,7 +25,6 @@ C:\Users\radee\source\repos\DeckofCardsLab\DeckofCardsLab\obj\Debug\netcoreapp3.
 C:\Users\radee\source\repos\DeckofCardsLab\DeckofCardsLab\obj\Debug\netcoreapp3.1\DeckofCardsLab.RazorCoreGenerate.cache
 C:\Users\radee\source\repos\DeckofCardsLab\DeckofCardsLab\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\radee\source\repos\DeckofCardsLab\DeckofCardsLab\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\radee\source\repos\DeckofCardsLab\DeckofCardsLab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Deck.cshtml.g.cs
 C:\Users\radee\source\repos\DeckofCardsLab\DeckofCardsLab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\radee\source\repos\DeckofCardsLab\DeckofCardsLab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\radee\source\repos\DeckofCardsLab\DeckofCardsLab\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -38,3 +37,4 @@ C:\Users\radee\source\repos\DeckofCardsLab\DeckofCardsLab\obj\Debug\netcoreapp3.
 C:\Users\radee\source\repos\DeckofCardsLab\DeckofCardsLab\obj\Debug\netcoreapp3.1\DeckofCardsLab.dll
 C:\Users\radee\source\repos\DeckofCardsLab\DeckofCardsLab\obj\Debug\netcoreapp3.1\DeckofCardsLab.pdb
 C:\Users\radee\source\repos\DeckofCardsLab\DeckofCardsLab\obj\Debug\netcoreapp3.1\DeckofCardsLab.genruntimeconfig.cache
+C:\Users\radee\source\repos\DeckofCardsLab\DeckofCardsLab\obj\Debug\netcoreapp3.1\Razor\Views\Home\Hand.cshtml.g.cs
