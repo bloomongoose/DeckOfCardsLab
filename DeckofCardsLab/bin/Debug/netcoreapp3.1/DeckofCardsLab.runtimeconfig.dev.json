@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\radee\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\radee\\.nuget\\packages"
+    ]
+  }
+}
